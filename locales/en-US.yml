@@ -706,7 +706,7 @@ reloadToApplySetting: "This setting will only apply after a page reload. Reload 
 needReloadToApply: "A reload is required for this to be reflected."
 showTitlebar: "Show title bar"
 clearCache: "Clear cache"
-onlineUsersCount: "{n} users are online"
+onlineUsersCount: "{n} users are onboard"
 nUsers: "{n} Users"
 nNotes: "{n} Notes"
 sendErrorReports: "Send error reports"

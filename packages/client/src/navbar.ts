@@ -5,6 +5,7 @@ import * as os from '@/os';
 import { i18n } from '@/i18n';
 import { ui } from '@/config';
 import { unisonReload } from '@/scripts/unison-reload';
+import { fetchCustomEmojis } from '@/custom-emojis';
 
 export const navbarItemDef = reactive({
 	notifications: {
@@ -144,5 +145,18 @@ export const navbarItemDef = reactive({
 		action: (ev) => {
 			location.reload();
 		},
+	},
+	cacheclear: {
+		icon: 'ti ti-trash',
+		title: i18n.ts.clearCache,
+		action: async () => {
+			os.waiting();
+			miLocalStorage.removeItem('locale');
+			miLocalStorage.removeItem('theme');
+			miLocalStorage.removeItem('emojis');
+			miLocalStorage.removeItem('lastEmojisFetchedAt');
+			await fetchCustomEmojis(true);
+			unisonReload();
+		}
 	},
 });

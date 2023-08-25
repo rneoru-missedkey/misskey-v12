@@ -1072,6 +1072,20 @@ _visibility:
   publicDescription: "みんなに公開"
   home: "ホーム"
   followers: "フォロワー"
+
+_postForm:
+  replyPlaceholder: "このノートに返信..."
+  quotePlaceholder: "このノートを引用..."
+  channelPlaceholder: "チャンネルに投稿..."
+  _placeholders:
+    a: "いまどうしとる？"
+    b: "何かあったん？"
+    c: "何考えとるん？"
+    d: "言いたいことは？"
+    e: "ここに書いてな"
+    f: "ジブンが書く待っとるで..."
+    d: "何か書いてみ？"
+
 _profile:
   name: "名前"
   username: "ユーザー名"

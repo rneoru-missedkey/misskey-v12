@@ -1089,6 +1089,15 @@ _postForm:
 _profile:
   name: "名前"
   username: "ユーザー名"
+  description: "自己紹介"
+  youCanIncludeHashtags: "ハッシュタグも入れれるで。"
+  metadata: "追加情報"
+  metadataEdit: "追加情報をいじる"
+  metadataDescription: "プロフィールに表みたいに追加情報を表示できるで。何か入れとき、損はないで。"
+  metadataLabel: "ラベル"
+  metadataContent: "内容"
+  changeAvatar: "アバター画像を変更"
+  changeBanner: "バナー画像を変更"
 _exportOrImport:
   allNotes: "全てのノート"
   followingList: "フォロー"

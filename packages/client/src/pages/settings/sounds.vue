@@ -52,6 +52,13 @@ const sounds = ref({
 
 const soundsTypes = [
 	null,
+	'missedkey/ballon',
+	'missedkey/default',
+	'missedkey/ding',
+	'missedkey/exclamation',
+	'missedkey/notify',
+	'missedkey/ringin',
+	'missedkey/ringout'.
 	'syuilo/up',
 	'syuilo/down',
 	'syuilo/pope1',

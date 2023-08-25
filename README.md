@@ -7,6 +7,8 @@
 	
 ---
 
+<center><h5>Note: Warning! This is a forked version of misskey, not modified by syuilo. It is also based on v12 of misskey.</h5></center>
+
 <a href="https://misskey-hub.net/instances.html">
 		<img src="https://custom-icon-badges.herokuapp.com/badge/find_an-instance-acea31?logoColor=acea31&style=for-the-badge&logo=misskey&labelColor=363B40" alt="find an instance"/></a>
 

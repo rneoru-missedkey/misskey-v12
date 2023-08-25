@@ -1,6 +1,6 @@
 {
 	"name": "misskey-forked-for-missedkey",
-	"version": "12.119.2-missedkey-fix-v.1.0.2",
+	"version": "12.119.2-missedkey-fix-v.1.0.1",
 	"codename": "Aurora",
 	"repository": {
 		"type": "git",

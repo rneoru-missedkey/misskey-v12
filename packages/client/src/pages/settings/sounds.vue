@@ -58,7 +58,7 @@ const soundsTypes = [
 	'missedkey/exclamation',
 	'missedkey/notify',
 	'missedkey/ringin',
-	'missedkey/ringout'.
+	'missedkey/ringout',
 	'syuilo/up',
 	'syuilo/down',
 	'syuilo/pope1',

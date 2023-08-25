@@ -932,7 +932,7 @@ _emailUnavailable:
   format: "形式が正しくありません"
   disposable: "恒久的に使用可能なアドレスではありません"
   mx: "正しいメールサーバーではありません"
-  smtp: "メールサーバーが応答しません"
+  smtp: "メールサーバーが応答していません"
   blocked: "ドメインブロックされています"
 
 _ffVisibility:
@@ -951,7 +951,7 @@ _accountDelete:
   sendEmail: "アカウントの削除が完了する際は、登録してあったメールアドレス宛に通知を送信します。"
   requestAccountDelete: "アカウント削除をリクエスト"
   started: "削除処理が開始されました。"
-  inProgress: "削除が進行中"
+  inProgress: "削除処理が進行中"
 
 _ad:
   back: "戻る"
@@ -1305,7 +1305,7 @@ _auth:
   shareAccess: "「{name}」がアカウントにアクセスすることを許可しますか？"
   shareAccessAsk: "アカウントへのアクセスを許可しますか？"
   permissionAsk: "このアプリは次の権限を要求しています"
-  pleaseGoBack: "アプリケーションに戻ってやっていってください"
+  pleaseGoBack: "アプリケーションに戻って設定を続行してください"
   callback: "アプリケーションに戻っています"
   denied: "アクセスを拒否しました"
 
@@ -1403,6 +1403,7 @@ _postForm:
     d: "言いたいことは？"
     e: "ここに書いてください"
     f: "あなたが書くのを待っています..."
+    d: "何か書いてみませんか？"
 
 _profile:
   name: "名前"

@@ -993,7 +993,7 @@ _registry:
   domain: "Domain"
   createKey: "Create key"
 _aboutMisskey:
-  about: "Misskey is open-source software being developed by syuilo since 2014."
+  about: "Misskey is open-source software being developed by syuilo since 2014. Misskey used here is a forked version."
   contributors: "Main contributors"
   allContributors: "All contributors"
   source: "Source code"

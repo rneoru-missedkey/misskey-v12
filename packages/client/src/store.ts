@@ -77,6 +77,7 @@ export const defaultStore = markRaw(new Storage('base', {
 			'search',
 			'-',
 			'ui',
+			'cacheclear',
 		],
 	},
 	visibility: {

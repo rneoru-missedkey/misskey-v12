@@ -186,7 +186,7 @@ function gravity() {
 
 function iLoveMisskey() {
 	os.post({
-		initialText: 'I $[jelly ❤] #Misskey',
+		initialText: 'I $[sparkle $[jelly ❤]] #Misskey',
 		instant: true,
 	});
 }

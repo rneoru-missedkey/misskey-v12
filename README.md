@@ -1,13 +1,12 @@
 <div align="center">
+<h1>Note: WARNING! This is a forked version of misskey, not modified by syuilo. It is also based on v12 of misskey.</h1>
 <a href="https://misskey-hub.net">
-	<img src="./assets/title_float.svg" alt="Misskey logo" style="border-radius:50%" width="400"/>
+<img src="./assets/title_float.svg" alt="Misskey logo" style="border-radius:50%" width="400"/>
 </a>
 	
 **🌎 **[Misskey](https://misskey-hub.net/)** is an open source, decentralized social media platform that's free forever! 🚀**
 	
 ---
-
-<center><h5>Note: Warning! This is a forked version of misskey, not modified by syuilo. It is also based on v12 of misskey.</h5></center>
 
 <a href="https://misskey-hub.net/instances.html">
 		<img src="https://custom-icon-badges.herokuapp.com/badge/find_an-instance-acea31?logoColor=acea31&style=for-the-badge&logo=misskey&labelColor=363B40" alt="find an instance"/></a>

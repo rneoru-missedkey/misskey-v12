@@ -24,7 +24,7 @@ self.addEventListener('activate', ev => {
 });
 
 function offlineContentHTML(): string {
-	return `<!doctype html>Offline. Service Worker @${_VERSION_} <button onclick="location.reload()">reload</button>`
+	return `<!doctype html>Unable to connect to server. Service Worker @${_VERSION_} <button onclick="location.reload()">reload</button>`
 }
 
 self.addEventListener('fetch', ev => {
